@@ -74,35 +74,36 @@
         <dependency>
             <groupId>org.geotools</groupId>
             <artifactId>gt-main</artifactId>
-            <version>${project.version}</version>
+            <version>19.2</version>
         </dependency>
 
         <dependency>
             <groupId>org.geotools</groupId>
             <artifactId>gt-tile-client</artifactId>
-            <version>${project.version}</version>
+            <version>19.2</version>
         </dependency>
         <dependency>
             <groupId>org.geotools</groupId>
             <artifactId>gt-wms</artifactId>
-            <version>${project.version}</version>
+            <version>19.2</version>
         </dependency>
         <dependency>
             <groupId>org.geotools.xsd</groupId>
             <artifactId>gt-xsd-wmts</artifactId>
-            <version>${project.version}</version>
+            <version>19.2</version>
         </dependency>
         <dependency>
             <groupId>org.geotools</groupId>
             <artifactId>gt-sample-data</artifactId>
-            <version>${project.version}</version>
+            <version>19.2</version>
             <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>org.geotools</groupId>
             <artifactId>gt-swing</artifactId>
-            <version>${project.version}</version>
+            <version>19.2</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <version>19.2-GEOGRAT</version>
 </project>
